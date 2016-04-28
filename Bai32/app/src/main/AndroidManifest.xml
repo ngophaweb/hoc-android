@@ -15,7 +15,12 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".CreateAuthorActivity" android:theme="@android:style/Theme.Dialog"></activity>
+        <activity
+            android:name=".CreateAuthorActivity"
+            android:theme="@android:style/Theme.Dialog" />
+        <activity
+            android:name=".ShowListAuthorActivity"
+            android:label="@string/title_activity_show_list_author"></activity>
     </application>
 
 </manifest>

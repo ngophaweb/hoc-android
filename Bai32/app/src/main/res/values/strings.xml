@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Bai 32</string>
+    <string name="title_activity_show_list_author">ShowListAuthorActivity</string>
 </resources>
